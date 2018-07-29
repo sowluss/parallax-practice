@@ -11,7 +11,8 @@ html {
 
 .img1,
 .img2,
-.img3 {
+.img3,
+.img4 {
     position: relative;
     opacity: 0.70;
     background-position: center;
@@ -37,6 +38,10 @@ html {
 .img3 {
     background-image: url('house3.jpeg');
     min-height: 600px;
+}
+.img4 {
+    background-image: url('house4.jpeg');
+    min-height: 100%;
 }
 
 .section {
